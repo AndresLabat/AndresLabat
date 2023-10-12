@@ -1,7 +1,7 @@
 ### Hola, soy Andrés 👋
 
 [![Github](https://img.shields.io/github/followers/vincenzo2202?label=Github&style=social)](https://github.com/AndresLabat)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/andrés-labat-beltrán-99a082292/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/andrés-labat-beltrán-99a082292)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andreslabat89@gmail.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vincenzo2202.vincenzo2202)](https://github.com/AndresLabat)
 
