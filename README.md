@@ -20,7 +20,7 @@
 * Mejorar mis conocimientos en codigo estudiando 10-14 horas diarias. 
 * Leer artículos 📰 relacionados al área de trabajo en las que me quiero desempeñar.  
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
-* Adaptarme a un estilo de vida saludable.
+* Hacer ejercicio 🏋️‍♂️ al menos 3 veces a la semana para mantenerme activo y saludable.
 
 #### 💻 Herramientas que utilizo: 
 <p>  
