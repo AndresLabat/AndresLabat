@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 #### 💼  Cosas en las que estoy trabajando actualmente: 
-* Mejorar los conocimientos en SQL.
+* Comenzar a aprender React desde cero.
 * Organizar mejor mis documentos y repositorios.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
 * Seguir aprendiendo nuevas tecnologías y lenguajes tales como PHP, React o Angular.
