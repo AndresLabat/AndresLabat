@@ -33,7 +33,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/35001/github.svg"></code>
     <code><img width="13%" src="https://upload.wikimedia.org/wikipedia/vi/a/a7/Nodejs_logo_light.png"></code>
-    <code><img width="14%" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic"></code>
+    <code><img width="17%" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic"></code>
 <p>      
     <code><img width="14%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
 
