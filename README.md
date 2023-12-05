@@ -37,6 +37,9 @@
 <p>      
     <code><img width="17%" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"></code>
     <code><img width="14%" src="https://i.blogs.es/53044d/java/1366_521.jpg"></code>
+      <code><img width="7%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJd09nbs-FMm0CO_8S31bN5HswUV2Tc5wvA&usqp=CAU"></code>
+      <code><img width="11%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHRR7WD7dsTO-WjMevpojc9ZQxn4TEdl5dA&usqp=CAU"></code>
+      
 
 #### 🏆 Estadísticas de Github:
 <p>
