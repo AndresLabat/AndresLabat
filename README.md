@@ -12,10 +12,9 @@
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 #### 💼  Cosas en las que estoy trabajando actualmente: 
-* Comenzar a aprender React desde cero.
-* Organizar mejor mis documentos y repositorios.
+* Mejorar mis conocimientos de Angular.
 * Aumentar la cantidad de proyectos que tengo en mi portafolio.
-* Seguir aprendiendo nuevas tecnologías y lenguajes tales como PHP, React o Angular.
+* Actualizar mis conocimiento de React a versiones mas recientes.
 #### 🌱 Retos con los que estoy actualmente:
 * Mejorar mis conocimientos en codigo estudiando 10-14 horas diarias. 
 * Leer artículos 📰 relacionados al área de trabajo en las que me quiero desempeñar.  
