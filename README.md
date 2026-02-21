@@ -13,10 +13,10 @@
 
 #### 💼  Cosas en las que estoy trabajando actualmente: 
 * Mejorar mis conocimientos de Angular.
-* Aumentar la cantidad de proyectos que tengo en mi portafolio.
-* Actualizar mis conocimiento de React a versiones mas recientes.
+* Implicarme en desarrollos de terceros y comenzar a crear los mios propios.
+* Proponer mejoras de tecnologías y código en mi actual trabajo
 #### 🌱 Retos con los que estoy actualmente:
-* Mejorar mis conocimientos en codigo estudiando 10-14 horas diarias. 
+* Mejorar mis conocimientos en codigo. 
 * Leer artículos 📰 relacionados al área de trabajo en las que me quiero desempeñar.  
 * Evitar gastar mucho tiempo en redes sociales o entretenimiento en general ☠️.
 * Hacer ejercicio 🏋️‍♂️ al menos 3 veces a la semana para mantenerme activo y saludable.
