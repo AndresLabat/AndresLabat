@@ -6,7 +6,7 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vincenzo2202.vincenzo2202)](https://github.com/AndresLabat)
 
 
-### Estoy trabajando como full stack developery y formandome como AI Engineer!
+### Estoy trabajando como full stack developer y formandome como AI Engineer!
 
 <!-- gif Image -->
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
