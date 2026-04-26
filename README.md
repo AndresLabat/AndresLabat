@@ -6,13 +6,13 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vincenzo2202.vincenzo2202)](https://github.com/AndresLabat)
 
 
-### Estoy trabajando y formandome como full stack developer!
+### Estoy trabajando como full stack developery y formandome como AI Engineer!
 
 <!-- gif Image -->
 <img src="https://raw.githubusercontent.com/JoykishanSharma/JoykishanSharma/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 #### 💼  Cosas en las que estoy trabajando actualmente: 
-* Mejorar mis conocimientos de Angular.
+* Mejorar mis conocimientos de Python y aprendiendo a realizar automatizaciones que trabajen en conjunto con modelos de IA locales.
 * Implicarme en desarrollos de terceros y comenzar a crear los mios propios.
 * Proponer mejoras de tecnologías y código en mi actual trabajo
 #### 🌱 Retos con los que estoy actualmente:
